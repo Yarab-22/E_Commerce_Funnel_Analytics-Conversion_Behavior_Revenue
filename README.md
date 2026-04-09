@@ -9,7 +9,7 @@ This project analyzes user interactions across the product funnel to identify dr
 
 ## Objective
 
-The objective of this project is to analyze user behavior across the e-commerce funnel and identify key factors affecting conversion and revenue. The analysis focuses on user journeys, session behavior, product performance, and pricing patterns to derive actionable business insights.
+The objective of this project is to analyze user behavior across the e-commerce funnel and identify key factors affecting conversion and revenue. The analysis focuses on user journeys, session behavior, product performance, cohort behaviour and pricing patterns to derive actionable business insights.
 
 
 ## Dataset
@@ -51,7 +51,7 @@ A sampled dataset was used to ensure efficient analysis while maintaining realis
    - Evaluated price sensitivity, category performance, and brand contribution  
 
 5. Advanced User Analysis  
-   - Explored user segmentation, repeat behavior, and retention patterns  
+   - Performed cohort retention analysis, explored user segmentation, repeat behavior, and retention patterns  
 
 6. SQL-Based Analysis  
    - Validated key metrics using structured queries  
