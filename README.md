@@ -14,7 +14,10 @@ The objective of this project is to analyze user behavior across the e-commerce 
 
 ## Dataset
 
+Dataset is not included due to size constraints.  
+You can download it from Kaggle
 - Source: Kaggle (E-commerce Behavior Dataset)
+- Link: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data/code
 - Data Type: User event-level data (views, cart, purchase)
 - Size: 42 million rows
 - Key Features:
